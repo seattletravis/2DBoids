@@ -1,4 +1,8 @@
-# Boids-Pygame-implementation
+# This is a fork of Matthew Necastro Boid Model. I'm using the code as a base for getting to know and understand boids a little better. Thanks Matthew!
+
+
+
+# Original Boid Model from MatthewNicastro.
 **Video demo**
 
 Here is a video demo of my running the simulation and messing around with some of the features: 
