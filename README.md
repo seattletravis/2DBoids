@@ -2,15 +2,15 @@
 
 
 **Installation**
+```CD into working directory using the CLI```
 
 Clone the repository
 
-```git clone https://github.com/MatthewNicastro/Boids-Pygame-implementation```
+```git clone https://github.com/seattletravis/2DBoids.git```
 
-Go to the cloned repository
+Go into repository dir
 
-```cd path/to/cloned repository```
-
+```cd 2DBoids```
 
 Install requirements
 
