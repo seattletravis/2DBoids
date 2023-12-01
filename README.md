@@ -5,21 +5,7 @@
 # Original Boid Model from MatthewNicastro.
 **Video demo**
 
-Here is a video demo of my running the simulation and messing around with some of the features: 
 
-<a href="https://www.youtube.com/watch?v=Y1uMH353CgU" target="_blank"><img src="http://img.youtube.com/vi/Y1uMH353CgU/0.jpg" 
-alt="VIDEO LINK" width="480" height="270" border="10" /></a>
-
-This is a simple boids implementation with pygame. 
-Boids is a simple flocking algorithm first developed in 1986 by Craig Reynolds. The algorithm utilizes 3 main constraints cohesion, separation and alignment in order to dictate how the each boid behaves. If you would like to read more about the algorithm here is a link to its Wikipedia page:
-
-https://en.wikipedia.org/wiki/Boids
-
-The following implementation was done using Pygame. Pygame has no native UI support thus I decided to do my own UI implementation.
-Some added features I have included are: 
-- Random movement support 
-- Jitter feature where the boids ossiclate with adjustable angle 
-- The ability to always limit the boids speed, or only limit the boids speed if its greater than the maximum speed
 
 **Installation**
 
