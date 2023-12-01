@@ -11,9 +11,6 @@ Go to the cloned repository
 
 ```cd path/to/cloned repository```
 
-(Optional) Create virtual environment
-
-```python -m venv "NAME OF VIRTUAL ENVIRONMENT"```
 
 Install requirements
 
